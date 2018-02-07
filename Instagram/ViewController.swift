@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         pastelView.endPastelPoint = .topRight
         
         // Custom Duration
-        pastelView.animationDuration = 2.7
+        pastelView.animationDuration = 2.0
         
         // Custom Color
         pastelView.setColors([UIColor(red: 156/255, green: 39/255, blue: 176/255, alpha: 1.0),
